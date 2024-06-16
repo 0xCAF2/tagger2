@@ -1,3 +1,3 @@
 # tagger2
 
-A new Flutter project.
+Reimplementation of [tagger](https://github.com/0xCAF2/tagger).
